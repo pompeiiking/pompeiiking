@@ -9,7 +9,7 @@
 <p align="center"><samp>AI PM · learning AI-native full-stack · student</samp></p>
 
 <p align="center">
-  志于把产品直觉写进可运行的系统里。
+  设计与艺术，架构与哲思，代码与想象。
 </p>
 
 <p align="center">
@@ -21,8 +21,8 @@
 <details>
 <summary><samp>focus</samp></summary>
 
-- 产品：需求抽象、体验与迭代
-- 技术：AI 应用与工程化、全栈基础（持续补齐中）
+- 产品：一个志于AI产品的开发者
+- 技术：一个乐于技术开发的产品人
 
 </details>
 
