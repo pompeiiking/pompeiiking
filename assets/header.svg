@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 120" fill="none">
+  <rect width="780" height="120" fill="transparent"/>
+  <line x1="40" y1="60" x2="200" y2="60" stroke="#1a1a1a" stroke-width="1.2" opacity="0.32"/>
+  <circle cx="280" cy="60" r="28" stroke="#1a1a1a" stroke-width="1.2" fill="none"/>
+  <circle cx="308" cy="60" r="28" stroke="#1a1a1a" stroke-width="1.2" fill="none" opacity="0.45"/>
+  <line x1="380" y1="60" x2="740" y2="60" stroke="#1a1a1a" stroke-width="1.2" opacity="0.18"/>
+  <text x="40" y="104" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#1a1a1a" opacity="0.48">victoria_pompeii</text>
+</svg>
