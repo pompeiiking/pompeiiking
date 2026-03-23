@@ -19,10 +19,11 @@
 <br/>
 
 <details>
-<summary><samp>focus</samp></summary>
+<summary><samp>self-positioning</samp></summary>
 
 - 产品：一个志于AI产品的开发者
 - 技术：一个乐于技术开发的产品人
+- 团队：正在探索。
 
 </details>
 
