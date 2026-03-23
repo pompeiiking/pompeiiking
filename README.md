@@ -6,7 +6,7 @@
 · · ·
 </pre>
 
-<p align="center"><samp>AI PM · A man of resolve acts, journeys, and becomes · student</samp></p>
+<p align="center"><samp>AI PM · A man of resolve acts, journeys, and becomes · DEVELOPER</samp></p>
 
 <p align="center">
   设计与艺术，架构与哲思，代码与想象。
